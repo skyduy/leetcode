@@ -19,15 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="501.h" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{3BE90AC2-EB6E-4061-9B67-2B4CBB37C1B1}</ProjectGuid>
-    <RootNamespace>leetcode</RootNamespace>
+    <ProjectGuid>{F45A6B78-B53B-4538-AB21-F08C06959656}</ProjectGuid>
+    <RootNamespace>niuke</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
