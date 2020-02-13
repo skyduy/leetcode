@@ -341,5 +341,5 @@ healthchecksdb
 
 
 # 去除无用项
-.vcxproj.filters
-.vcxproj.user
+*.vcxproj.filters
+*.vcxproj.user
