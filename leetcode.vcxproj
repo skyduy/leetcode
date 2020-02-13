@@ -140,6 +140,7 @@
   <ItemGroup>
     <ClCompile Include="l501.cpp" />
     <ClCompile Include="l504.cpp" />
+    <ClCompile Include="tmp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
