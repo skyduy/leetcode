@@ -1,12 +1,12 @@
+#include <bitset>
 #include <iostream>
-#include<vector>
-#include<bitset>
+#include <vector>
 
 using namespace std;
 
-int main_tmp() {
-	uint32_t a = 5;
-	bitset<32> b(a);
-	cout << b << endl;
-	return 0;
+int main() {
+    uint32_t a = 5;
+    bitset<32> b(a);
+    cout << b << endl;
+    return 0;
 }
