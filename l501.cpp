@@ -9,7 +9,7 @@ struct TreeNode {
     int val;
     TreeNode* left;
     TreeNode* right;
-    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+    explicit TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
 };
 
 // 这里类只是一种声明，其内部实现的函数为都是内联函数
