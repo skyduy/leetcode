@@ -1,4 +1,5 @@
 add_executable(l201 l201.cpp)
 add_executable(l475 l475.cpp)
+add_executable(l476 l476.cpp)
 add_executable(l501 l501.cpp)
 add_executable(l504 l504.cpp)
